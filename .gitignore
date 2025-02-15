@@ -1,0 +1,5 @@
+huawei/backend/triton-adapter-opt
+__pycache__/
+kernel_meta/
+.vscode/
+fusion_result.json
